@@ -9,14 +9,19 @@ Librerias usadas:
 - `Framework Bootstrap` para el frontend de la aplicación.
 
 Instalación: 
-cmd en el carpeta de la aplicacions
-Descargar o clonar el proyecto.
-1. `"composer update"`.
 
-2. `"php artisan key generate `".
+
+
+Descargar o clonar el proyecto.
+cmd en el carpeta de la aplicacions
+
+
+`"composer update"`.
+
+ `"php artisan key generate `".
  
 
-3. configurar el archivo `".env.example`"   renombrar su extension a `".env`" y asignar la configuracion a la base de datos.
+configurar el archivo `".env.example`"   renombrar su extension a `".env`" y asignar la configuracion a la base de datos.
 crear base de datos en mysql con nombre "mibase".
 
 
@@ -28,7 +33,8 @@ DB_PASSWORD=
 usuario "postgres" para postgres y tambien modificar en caso de postgres /config/database.php default   "mysql" sera cambiado a "postgres".
 
 
-4. `"php artisan app:install"`
+
+ `"php artisan app:install"`
 
 
 
