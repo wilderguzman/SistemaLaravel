@@ -26,8 +26,12 @@ crear base de datos en mysql con nombre "mibase".
 
 
 
-DB_DATABASE=mibase      
+DB_DATABASE=mibase  
+
+
 DB_USERNAME=root
+
+
 DB_PASSWORD=
 
 usuario "postgres" para postgres y tambien modificar en caso de postgres /config/database.php default   "mysql" sera cambiado a "postgres".
