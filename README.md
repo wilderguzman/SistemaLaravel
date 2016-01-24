@@ -1,7 +1,6 @@
-## Documentación de la aplicación RentCarApp:
+## Documentación de la aplicación :
 
-RentCarApp es una aplicación de gestión de alquiler de coches muy sencilla, en la cual existen clientes que quieren alquilar un coche por un tiempo determinado, existen dos roles dentro de la aplicación, el rol de admin que se encarga de gestionar los usuarios que pueden usar la aplicación y el rol de comercial, que se encarga realizar el registro del alquiler de coche.
-Se hizo con el objetivo de probar la versión 5.1 de laravel y que las personas que estan comenzando puedan guiarse en lo que haga falta con esta aplicación. 
+
 
 Librerias usadas:
 - `Pinpong Modules` para separar la aplicación por módulos: (https://sky.pingpong-labs.com/docs/2.1/modules).
