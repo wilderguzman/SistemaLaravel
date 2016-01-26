@@ -18,7 +18,7 @@ cmd en el carpeta de la aplicacions
 
 `"composer update"`.
 
- `"php artisan key generate `".
+ `"php artisan key:generate `".
  
 
 configurar el archivo `".env.example`"   renombrar su extension a `".env`" y asignar la configuracion a la base de datos.
