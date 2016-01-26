@@ -49,8 +49,6 @@ Role Admin:
 email: admin@demo.com
 password: admin123
 
-Role Comercial:
-email: comercial@demo.com
-password: comercial123
+
 ```
 
